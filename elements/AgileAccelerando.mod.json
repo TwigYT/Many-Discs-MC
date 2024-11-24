@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Agile Accelerando",
+    "rarity": "RARE",
+    "texture": "agile_accelerando",
+    "description": "Agile Accelerando by Gareth Coker",
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:agile_accelerando"
+    },
+    "lengthInTicks": 1420,
+    "analogOutput": 7
+  }
+}

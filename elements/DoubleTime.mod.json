@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Double Time",
+    "rarity": "RARE",
+    "texture": "double_time",
+    "description": "Double Time by Gareth Coker",
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:double_time"
+    },
+    "lengthInTicks": 1480,
+    "analogOutput": 4
+  }
+}

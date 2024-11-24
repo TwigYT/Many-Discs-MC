@@ -1,0 +1,38 @@
+{
+  "creator_remix": {
+    "subtitle": "subtitles.creator_remix",
+    "sounds": [
+      {
+        "name": "many_discs:creator_remix",
+        "stream": true
+      }
+    ]
+  },
+  "precipice_remix": {
+    "subtitle": "subtitles.precipice_remix",
+    "sounds": [
+      {
+        "name": "many_discs:precipice_remix",
+        "stream": true
+      }
+    ]
+  },
+  "agile_accelerando": {
+    "subtitle": "subtitles.agile_accelerando",
+    "sounds": [
+      {
+        "name": "many_discs:agile_accelerando",
+        "stream": true
+      }
+    ]
+  },
+  "double_time": {
+    "subtitle": "subtitles.double_time",
+    "sounds": [
+      {
+        "name": "many_discs:double_time",
+        "stream": true
+      }
+    ]
+  }
+}

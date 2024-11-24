@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": {
+    "translate": "item.many_discs.double_time.desc"
+  },
+  "length_in_seconds": 74,
+  "sound_event": "many_discs:double_time"
+}

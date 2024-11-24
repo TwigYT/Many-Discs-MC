@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Creator Remix",
+    "rarity": "RARE",
+    "texture": "creator_remix",
+    "description": "Creator Remix by leon chang",
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:creator_remix"
+    },
+    "lengthInTicks": 3540,
+    "analogOutput": 11
+  }
+}

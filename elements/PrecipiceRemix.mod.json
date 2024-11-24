@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Precipice Remix",
+    "rarity": "RARE",
+    "texture": "precipice_remix",
+    "description": "Creator Remix by Hyper Potions",
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:precipice_remix"
+    },
+    "lengthInTicks": 3900,
+    "analogOutput": 12
+  }
+}

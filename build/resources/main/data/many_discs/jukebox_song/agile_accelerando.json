@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.many_discs.agile_accelerando.desc"
+  },
+  "length_in_seconds": 71,
+  "sound_event": "many_discs:agile_accelerando"
+}

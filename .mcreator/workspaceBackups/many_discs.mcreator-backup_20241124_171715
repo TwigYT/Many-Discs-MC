@@ -1,0 +1,142 @@
+{
+  "mod_elements": [
+    {
+      "name": "CreatorRemix",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creator_remix",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/many_discs/jukebox_song/creator_remix.json",
+          "src/main/java/net/mcreator/manydiscs/item/CreatorRemixItem.java",
+          "src/main/resources/assets/many_discs/models/item/creator_remix.json"
+        ]
+      }
+    },
+    {
+      "name": "PrecipiceRemix",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "precipice_remix",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/many_discs/jukebox_song/precipice_remix.json",
+          "src/main/resources/assets/many_discs/models/item/precipice_remix.json",
+          "src/main/java/net/mcreator/manydiscs/item/PrecipiceRemixItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DoubleTime",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_time",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/many_discs/jukebox_song/double_time.json",
+          "src/main/java/net/mcreator/manydiscs/item/DoubleTimeItem.java",
+          "src/main/resources/assets/many_discs/models/item/double_time.json"
+        ]
+      }
+    },
+    {
+      "name": "AgileAccelerando",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "agile_accelerando",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/manydiscs/item/AgileAccelerandoItem.java",
+          "src/main/resources/data/many_discs/jukebox_song/agile_accelerando.json",
+          "src/main/resources/assets/many_discs/models/item/agile_accelerando.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "creator_remix",
+      "files": [
+        "creator_remix"
+      ],
+      "category": "record",
+      "subtitle": "Creator Remix by leon chang"
+    },
+    {
+      "name": "precipice_remix",
+      "files": [
+        "precipice_remix"
+      ],
+      "category": "record",
+      "subtitle": "Creator Remix by Hyper Potions"
+    },
+    {
+      "name": "agile_accelerando",
+      "files": [
+        "agile_accelerando"
+      ],
+      "category": "record",
+      "subtitle": "Agile Accelerando by Gareth Coker"
+    },
+    {
+      "name": "double_time",
+      "files": [
+        "double_time"
+      ],
+      "category": "record",
+      "subtitle": "Double Time by Gareth Coker"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:AgileAccelerando",
+      "~CUSTOM:DoubleTime",
+      "~CUSTOM:PrecipiceRemix",
+      "~CUSTOM:CreatorRemix"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.many_discs.precipice_remix": "Precipice Remix",
+      "item.many_discs.double_time.desc": "Double Time by Gareth Coker",
+      "item.many_discs.precipice_remix.desc": "Creator Remix by Hyper Potions",
+      "item.many_discs.agile_accelerando": "Agile Accelerando",
+      "item.many_discs.agile_accelerando.desc": "Agile Accelerando by Gareth Coker",
+      "item.many_discs.creator_remix": "Creator Remix",
+      "subtitles.agile_accelerando": "Agile Accelerando by Gareth Coker",
+      "item.many_discs.creator_remix.desc": "Creator Remix by leon chang",
+      "item.many_discs.double_time": "Double Time",
+      "subtitles.creator_remix": "Creator Remix by leon chang",
+      "subtitles.double_time": "Double Time by Gareth Coker",
+      "subtitles.precipice_remix": "Creator Remix by Hyper Potions"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "many_discs",
+    "modName": "Many Discs",
+    "version": "1.0.0",
+    "author": "TwigYT",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "logo_banner",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.manydiscs"
+  },
+  "mcreatorVersion": 202400342716
+}
