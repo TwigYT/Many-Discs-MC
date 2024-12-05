@@ -1,0 +1,26 @@
+{
+  "_fv": 69,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Dalarna",
+    "rarity": "RARE",
+    "texture": "dalarna",
+    "description": "Dalarna by Peter Hont from Minecraft Dungeons",
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:dalarna"
+    },
+    "lengthInTicks": 4240,
+    "analogOutput": 5
+  }
+}

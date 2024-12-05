@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "many_discs:dalarna",
+    "count": 1
+  }
+}

@@ -19,4 +19,5 @@ public class ManyDiscsModSounds {
 	public static final DeferredHolder<SoundEvent, SoundEvent> PRECIPICE_REMIX = REGISTRY.register("precipice_remix", () -> SoundEvent.createVariableRangeEvent(ResourceLocation.fromNamespaceAndPath("many_discs", "precipice_remix")));
 	public static final DeferredHolder<SoundEvent, SoundEvent> AGILE_ACCELERANDO = REGISTRY.register("agile_accelerando", () -> SoundEvent.createVariableRangeEvent(ResourceLocation.fromNamespaceAndPath("many_discs", "agile_accelerando")));
 	public static final DeferredHolder<SoundEvent, SoundEvent> DOUBLE_TIME = REGISTRY.register("double_time", () -> SoundEvent.createVariableRangeEvent(ResourceLocation.fromNamespaceAndPath("many_discs", "double_time")));
+	public static final DeferredHolder<SoundEvent, SoundEvent> DALARNA = REGISTRY.register("dalarna", () -> SoundEvent.createVariableRangeEvent(ResourceLocation.fromNamespaceAndPath("many_discs", "dalarna")));
 }

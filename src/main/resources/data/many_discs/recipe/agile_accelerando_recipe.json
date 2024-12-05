@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:raw_gold"
+    },
+    "b": {
+      "item": "minecraft:oak_slab"
+    },
+    "c": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "many_discs:agile_accelerando",
+    "count": 1
+  }
+}

@@ -1,15 +1,16 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="GNU General Public License version 3 (GPLv3)"
+license="GNU Lesser General Public License version 3 (LGPLv3)"
 
 [[mods]]
 modId="many_discs"
-version="1.0.0"
+version="0.1.0"
 displayName="Many Discs"
-displayURL="https://mcreator.net"
+displayURL="https://modrinth.com/project/meny-discs"
 logoFile="logo.png"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="TwigYT"
+description="Adds Minecraft music that's not included in-game"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

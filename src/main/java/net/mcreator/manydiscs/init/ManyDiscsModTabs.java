@@ -27,6 +27,7 @@ public class ManyDiscsModTabs {
 			tabData.accept(ManyDiscsModItems.PRECIPICE_REMIX.get());
 			tabData.accept(ManyDiscsModItems.DOUBLE_TIME.get());
 			tabData.accept(ManyDiscsModItems.AGILE_ACCELERANDO.get());
+			tabData.accept(ManyDiscsModItems.DALARNA.get());
 
 		}
 	}

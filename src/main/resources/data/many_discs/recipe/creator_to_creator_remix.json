@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 60,
+  "ingredient": {
+    "item": "minecraft:music_disc_creator"
+  },
+  "result": {
+    "id": "many_discs:creator_remix"
+  }
+}

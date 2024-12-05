@@ -34,5 +34,14 @@
         "stream": true
       }
     ]
+  },
+  "dalarna": {
+    "subtitle": "subtitles.dalarna",
+    "sounds": [
+      {
+        "name": "many_discs:dalarna",
+        "stream": true
+      }
+    ]
   }
 }

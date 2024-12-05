@@ -1,0 +1,22 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 60,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.RECORD_PRECIPICE"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:PrecipiceRemix"
+    },
+    "name": "precipice_to_precipice_remix",
+    "namespace": "mod"
+  }
+}
