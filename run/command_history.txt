@@ -1,5 +1,0 @@
-/give @s many_discs:creator_remix
-/time set noon
-/gamerule doDaylightCycle false
-/setblock ~ ~ ~ minecraft:crafter
-/setblock ~ ~ ~ minecraft:crafting_table
