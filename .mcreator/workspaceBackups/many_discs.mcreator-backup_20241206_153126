@@ -107,6 +107,33 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "Dalarna",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalarna",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/manydiscs/item/DalarnaItem.java",
+          "src/main/resources/data/many_discs/jukebox_song/dalarna.json",
+          "src/main/resources/assets/many_discs/models/item/dalarna.json"
+        ]
+      }
+    },
+    {
+      "name": "DalarnaRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalarna_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/many_discs/recipe/dalarna_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -142,10 +169,19 @@
       ],
       "category": "record",
       "subtitle": "Double Time by Gareth Coker"
+    },
+    {
+      "name": "dalarna",
+      "files": [
+        "dalarna"
+      ],
+      "category": "record",
+      "subtitle": "Dalarna from Minecraft Dungeons"
     }
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Dalarna",
       "~CUSTOM:AgileAccelerando",
       "~CUSTOM:DoubleTime",
       "~CUSTOM:PrecipiceRemix",
@@ -157,11 +193,14 @@
     "en_us": {
       "item.many_discs.precipice_remix": "Precipice Remix",
       "item.many_discs.double_time.desc": "Double Time by Gareth Coker",
+      "item.many_discs.dalarna.desc": "Dalarna by Peter Hont from Minecraft Dungeons",
       "item.many_discs.precipice_remix.desc": "Precipice Remix by Hyper Potions",
       "item.many_discs.agile_accelerando": "Agile Accelerando",
       "item.many_discs.agile_accelerando.desc": "Agile Accelerando by Gareth Coker",
       "item.many_discs.creator_remix": "Creator Remix",
+      "item.many_discs.dalarna": "Dalarna",
       "subtitles.agile_accelerando": "Agile Accelerando by Gareth Coker",
+      "subtitles.dalarna": "Dalarna from Minecraft Dungeons",
       "item.many_discs.creator_remix.desc": "Creator Remix by leon chang",
       "item.many_discs.double_time": "Double Time",
       "subtitles.creator_remix": "Creator Remix by leon chang",
