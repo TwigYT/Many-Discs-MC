@@ -43,5 +43,14 @@
         "stream": true
       }
     ]
+  },
+  "a_time_of_legends": {
+    "subtitle": "subtitles.a_time_of_legends",
+    "sounds": [
+      {
+        "name": "many_discs:a_time_of_legends",
+        "stream": true
+      }
+    ]
   }
 }

@@ -2,10 +2,10 @@
   "_fv": 69,
   "_type": "musicdisc",
   "definition": {
-    "name": "Dalarna",
+    "name": "A Time Of Legends",
     "rarity": "RARE",
-    "texture": "dalarna",
-    "description": "by Peter Hont from Minecraft Dungeons",
+    "texture": "a_time_of_legends",
+    "description": "by Crispin Hands from Minecraft Legends",
     "creativeTabs": [
       {
         "value": "TOOLS"
@@ -18,9 +18,9 @@
       "fixedValue": false
     },
     "music": {
-      "value": "CUSTOM:dalarna"
+      "value": "CUSTOM:a_time_of_legends"
     },
-    "lengthInTicks": 4240,
-    "analogOutput": 5
+    "lengthInTicks": 2520,
+    "analogOutput": 1
   }
 }

@@ -28,6 +28,7 @@ public class ManyDiscsModTabs {
 			tabData.accept(ManyDiscsModItems.DOUBLE_TIME.get());
 			tabData.accept(ManyDiscsModItems.AGILE_ACCELERANDO.get());
 			tabData.accept(ManyDiscsModItems.DALARNA.get());
+			tabData.accept(ManyDiscsModItems.A_TIME_OF_LEGENDS.get());
 
 		}
 	}

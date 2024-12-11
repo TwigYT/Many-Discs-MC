@@ -1,17 +1,20 @@
 {
+  "item.many_discs.a_time_of_legends.desc": "by Crispin Hands from Minecraft Legends",
   "item.many_discs.precipice_remix": "Precipice Remix",
-  "item.many_discs.double_time.desc": "Double Time by Gareth Coker",
-  "item.many_discs.dalarna.desc": "Dalarna by Peter Hont from Minecraft Dungeons",
-  "item.many_discs.precipice_remix.desc": "Precipice Remix by Hyper Potions",
+  "item.many_discs.double_time.desc": "by Gareth Coker",
+  "item.many_discs.dalarna.desc": "by Peter Hont from Minecraft Dungeons",
+  "item.many_discs.a_time_of_legends": "A Time Of Legends",
+  "item.many_discs.precipice_remix.desc": "by Hyper Potions",
   "item.many_discs.agile_accelerando": "Agile Accelerando",
-  "item.many_discs.agile_accelerando.desc": "Agile Accelerando by Gareth Coker",
+  "item.many_discs.agile_accelerando.desc": "by Gareth Coker",
   "item.many_discs.creator_remix": "Creator Remix",
   "item.many_discs.dalarna": "Dalarna",
   "subtitles.agile_accelerando": "Agile Accelerando by Gareth Coker",
-  "subtitles.dalarna": "Dalarna from Minecraft Dungeons",
-  "item.many_discs.creator_remix.desc": "Creator Remix by leon chang",
+  "subtitles.dalarna": "Dalarna by Peter Hont from Minecraft Dungeons",
+  "item.many_discs.creator_remix.desc": "by leon chang",
   "item.many_discs.double_time": "Double Time",
   "subtitles.creator_remix": "Creator Remix by leon chang",
   "subtitles.double_time": "Double Time by Gareth Coker",
-  "subtitles.precipice_remix": "Precipice Remix by Hyper Potions"
+  "subtitles.precipice_remix": "Precipice Remix by Hyper Potions",
+  "subtitles.a_time_of_legends": "A Time of Legends by Crispin Hands"
 }

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.many_discs.a_time_of_legends.desc"
+  },
+  "length_in_seconds": 126,
+  "sound_event": "many_discs:a_time_of_legends"
+}

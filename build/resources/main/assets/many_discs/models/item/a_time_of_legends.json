@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "many_discs:item/a_time_of_legends"
+  }
+}

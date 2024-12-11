@@ -14,6 +14,7 @@ import net.mcreator.manydiscs.item.DoubleTimeItem;
 import net.mcreator.manydiscs.item.DalarnaItem;
 import net.mcreator.manydiscs.item.CreatorRemixItem;
 import net.mcreator.manydiscs.item.AgileAccelerandoItem;
+import net.mcreator.manydiscs.item.ATimeOfLegendsItem;
 import net.mcreator.manydiscs.ManyDiscsMod;
 
 public class ManyDiscsModItems {
@@ -23,6 +24,7 @@ public class ManyDiscsModItems {
 	public static final DeferredItem<Item> DOUBLE_TIME = REGISTRY.register("double_time", DoubleTimeItem::new);
 	public static final DeferredItem<Item> AGILE_ACCELERANDO = REGISTRY.register("agile_accelerando", AgileAccelerandoItem::new);
 	public static final DeferredItem<Item> DALARNA = REGISTRY.register("dalarna", DalarnaItem::new);
+	public static final DeferredItem<Item> A_TIME_OF_LEGENDS = REGISTRY.register("a_time_of_legends", ATimeOfLegendsItem::new);
 	// Start of user code block custom items
 	// End of user code block custom items
 }
