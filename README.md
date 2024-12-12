@@ -37,6 +37,10 @@ Double Time by Gareth Coker:
 
 ![Crafting recipe for the Double Time music disc](https://cdn.modrinth.com/data/cached_images/8dbd96b2ad82bf57cf2dea812c61a72f3a698b30.png)
 
+Dalarna by Peter Hont
+
+A Time of Legends by Crispin Hands
+
 ## New Content?
 
 If you want to see what I'm working on in the mod, visit the [Trello Bourd](https://trello.com/b/LG85RWRT).
