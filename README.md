@@ -17,6 +17,10 @@ What titles are in the mod?
 
 [Double Time by Gareth Coker](https://open.spotify.com/track/4Hbh0oYptAz35Qqo8SDScJ?si=5b393d7bcf2f4a86)
 
+[Dalarna by Peter Hont](https://open.spotify.com/track/58ZLhxCjVDRruqfqiQWjad?si=ea4d386dd4504cd6)
+
+[A Time of Legends by Crispin Hands](https://open.spotify.com/track/779AAj3CIPLV5ruM17XV6u?si=aa91a929543f48ee)
+
 </details>
 
 ## How do I get each music dics?
