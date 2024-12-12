@@ -43,7 +43,11 @@ Double Time by Gareth Coker:
 
 Dalarna by Peter Hont
 
+![Crafting recipe for the Dalarna music disc](https://cdn.modrinth.com/data/cached_images/69085fe8dc07123eeac24f01124fc20d3655a360.png)
+
 A Time of Legends by Crispin Hands
+
+![Crafting recipe for the A Time of Legends music disc](https://cdn.modrinth.com/data/cached_images/ee6aa9c2546c741d6525f071319882503ba5bda1.png)
 
 ## New Content?
 
