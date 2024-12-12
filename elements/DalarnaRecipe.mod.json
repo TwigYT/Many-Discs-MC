@@ -12,13 +12,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.OBSIDIAN"
+        "value": "Items.BLAZE_ROD"
       },
       {
         "value": "Items.GOLD_INGOT"
       },
       {
-        "value": "Blocks.OBSIDIAN"
+        "value": "Items.BLAZE_ROD"
       },
       {
         "value": "Items.GOLD_INGOT"
@@ -30,13 +30,13 @@
         "value": "Items.GOLD_INGOT"
       },
       {
-        "value": "Blocks.OBSIDIAN"
+        "value": "Items.BLAZE_ROD"
       },
       {
         "value": "Items.GOLD_INGOT"
       },
       {
-        "value": "Blocks.OBSIDIAN"
+        "value": "Items.BLAZE_ROD"
       }
     ],
     "recipeReturnStack": {

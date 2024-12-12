@@ -4,7 +4,7 @@ license="GNU Lesser General Public License version 3 (LGPLv3)"
 
 [[mods]]
 modId="many_discs"
-version="0.1.0"
+version="0.2.0"
 displayName="Many Discs"
 displayURL="https://modrinth.com/project/meny-discs"
 logoFile="logo.png"

@@ -134,6 +134,33 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "ATimeOfLegends",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_time_of_legends",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/manydiscs/item/ATimeOfLegendsItem.java",
+          "src/main/resources/assets/many_discs/models/item/a_time_of_legends.json",
+          "src/main/resources/data/many_discs/jukebox_song/a_time_of_legends.json"
+        ]
+      }
+    },
+    {
+      "name": "ATimeOfLegendsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_time_of_legends_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/many_discs/recipe/a_time_of_legends_recipe.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -189,6 +216,7 @@
   ],
   "tag_elements": {
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:ATimeOfLegends",
       "~CUSTOM:Dalarna",
       "~CUSTOM:AgileAccelerando",
       "~CUSTOM:DoubleTime",
@@ -199,17 +227,19 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
+      "item.many_discs.a_time_of_legends.desc": "by Crispin Hands from Minecraft Legends",
       "item.many_discs.precipice_remix": "Precipice Remix",
-      "item.many_discs.double_time.desc": "Double Time by Gareth Coker",
-      "item.many_discs.dalarna.desc": "Dalarna by Peter Hont from Minecraft Dungeons",
-      "item.many_discs.precipice_remix.desc": "Precipice Remix by Hyper Potions",
+      "item.many_discs.double_time.desc": "by Gareth Coker",
+      "item.many_discs.dalarna.desc": "by Peter Hont from Minecraft Dungeons",
+      "item.many_discs.a_time_of_legends": "A Time Of Legends",
+      "item.many_discs.precipice_remix.desc": "Hyper Potions - Precipice Remix",
       "item.many_discs.agile_accelerando": "Agile Accelerando",
-      "item.many_discs.agile_accelerando.desc": "Agile Accelerando by Gareth Coker",
+      "item.many_discs.agile_accelerando.desc": "by Gareth Coker",
       "item.many_discs.creator_remix": "Creator Remix",
       "item.many_discs.dalarna": "Dalarna",
       "subtitles.agile_accelerando": "Agile Accelerando by Gareth Coker",
-      "subtitles.dalarna": "Dalarna from Minecraft Dungeons",
-      "item.many_discs.creator_remix.desc": "Creator Remix by leon chang",
+      "subtitles.dalarna": "Dalarna by Peter Hont from Minecraft Dungeons",
+      "item.many_discs.creator_remix.desc": "leon chang - Creator Remix",
       "item.many_discs.double_time": "Double Time",
       "subtitles.creator_remix": "Creator Remix by leon chang",
       "subtitles.double_time": "Double Time by Gareth Coker",
@@ -229,7 +259,7 @@
   "workspaceSettings": {
     "modid": "many_discs",
     "modName": "Many Discs",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Adds Minecraft music that\u0027s not included in-game",
     "author": "TwigYT",
     "websiteURL": "https://modrinth.com/project/meny-discs",
